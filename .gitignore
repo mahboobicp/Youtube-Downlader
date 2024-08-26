@@ -1,2 +1,6 @@
 venv
 .venv
+build
+dist
+*.mp4
+*.mp3
